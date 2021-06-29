@@ -4,7 +4,7 @@ package com.employeepayroll;
  * ****************************************************************************************************************** 
  * Purpose: This class is implemented for Demonstration of Data Base Service of Payroll for the Employees
  *  connecting to Mysql
- * @author ZameerAhamad Ron <zameerraone96@gmail.com>
+ * @author ZameerAhamad Ron (zameerraone96@gmail.com)
  * @version 1.4
  * @since 29/06/2021
  * **************************************************************************************************************
