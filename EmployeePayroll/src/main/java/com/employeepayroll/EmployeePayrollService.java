@@ -3,7 +3,7 @@ package com.employeepayroll;
 /**
  * ****************************************************************************************************************** 
  * Purpose: This class is implemented for listing of Service of Payroll for the Employees
- * @author ZameerAhamad Ron <zameerraone96@gmail.com>
+ * @author ZameerAhamad Ron (zameerraone96@gmail.com)
  * @version 1.4
  * @since 28/06/2021
  * **************************************************************************************************************
