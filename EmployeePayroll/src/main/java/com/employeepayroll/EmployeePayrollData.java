@@ -1,5 +1,15 @@
 package com.employeepayroll;
 
+/**
+ * ****************************************************************************************************************** 
+ * Purpose: This class is implemented to get Data of Payroll for the Employees
+ * @author ZameerAhamad Ron <zameerraone96@gmail.com>
+ * @version 1.4
+ * @since 28/06/2021
+ * **************************************************************************************************************
+ */
+
+
 import java.time.LocalDate;
 import java.util.Objects;
 
